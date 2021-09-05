@@ -173,6 +173,6 @@ except KeyboardInterrupt:
         sleep(2)
         exit() 
 except Exception:
-        print("Bye")
+        print("Bye!")
         sleep(5)
         exit() 
